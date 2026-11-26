@@ -1,0 +1,29 @@
+
+# Node dependencies
+**/node_modules/
+
+# Angular build output
+**/dist/
+**/out-tsc/
+**/.angular/
+
+# Test coverage
+**/coverage/
+
+# Environment files and secrets
+**/.env
+**/.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
